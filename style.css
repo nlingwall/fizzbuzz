@@ -1,0 +1,129 @@
+body{
+margin:0px;
+}
+
+#dumbname{
+    display: flex; 
+    flex-wrap: wrap;
+    width: 100%; 
+    
+    
+}
+
+.fizzbuzz{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 130px;
+    width: 130px;
+    background-color: tomato;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 2em;
+    border-radius: 50%;
+    margin:10px;
+
+}
+
+.fizzbuzz:hover{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 135px;
+    width: 135px;
+    background-color: tomato;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 2.1em;
+    border-radius: 50%;
+    margin:7.5px;
+}
+
+
+.fizz{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 130px;
+    width: 130px;
+    background-color: goldenrod;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 1.5em;
+    border-radius: 50%;
+    margin:10px;
+}
+
+.fizz:hover{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 135px;
+    width: 135px;
+    background-color: goldenrod;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 1.6em;
+    border-radius: 50%;
+    margin:7.5px;
+}
+
+
+.buzz{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 130px;
+    width: 130px;
+    background-color: mediumseagreen;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 1.5em;
+    border-radius: 50%;
+    margin:10px;
+}
+
+.buzz:hover{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 135px;
+    width: 135px;
+    background-color: mediumseagreen;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 1.6em;
+    border-radius: 50%;
+    margin:7.5px;
+}
+
+
+.number{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 130px;
+    width: 130px;
+    background-image: linear-gradient(red, yellow, green,blue,indigo, purple,white);
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 1.5em;
+    border-radius: 50%;
+    color:white;
+    margin:10px;
+}
+
+.number:hover{  
+    display:flex;
+    flex-wrap: wrap;
+    height: 135px;
+    width: 135px;
+    background-image: linear-gradient(white, purple,indigo,blue,green,yellow,orange, red);
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: 1.6em;
+    border-radius: 50%;
+    color:white;
+    margin:7.5px;
+}
